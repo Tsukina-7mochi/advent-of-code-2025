@@ -1,7 +1,7 @@
 !/bin/bash
 
 function pick_lang() {
-    shuf -e "Rust" "C" "C++" "Go" "TypeScript" "Lua" "Python" "Kotlin" "Scala" "Zsh" | head -n 1
+    shuf -e "C" "C++" "Go" "TypeScript" "Lua" "Bash" "Zig" "Haskell" "OCaml" | head -n 1
 }
 
 printf "Today's Language: $(pick_lang)"
