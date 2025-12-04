@@ -9,3 +9,4 @@ The language to use is decided with [this roulette](./todays-language.sh) or by 
 |   1 |     Rust |
 |   2 |   Kotlin |
 |   3 |      Nim |
+|   4 |  Haskell |
