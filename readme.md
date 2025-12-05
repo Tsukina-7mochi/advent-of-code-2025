@@ -8,5 +8,8 @@ The language to use is decided with [this roulette](./todays-language.sh) or by 
 | --- | -------- |
 |   1 |     Rust |
 |   2 |   Kotlin |
-|   3 |      Nim |
-|   4 |  Haskell |
+|   3 |     *Nim |
+|   4 | *Haskell |
+|   5 |        C |
+
+`*`: Unfamiliar language
