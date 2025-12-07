@@ -1,7 +1,7 @@
 !/bin/bash
 
 function pick_lang() {
-    shuf -e "C++" "Go" "TypeScript" "Bash" "Zig" "OCaml" | head -n 1
+    shuf -e "C++" "TypeScript" "Bash" "Zig" "OCaml" | head -n 1
 }
 
 printf ""
