@@ -1,10 +1,10 @@
 !/bin/bash
 
 function pick_lang() {
-    shuf -e "C++" "TypeScript" "Bash" "Zig" "OCaml" | head -n 1
+    shuf -e "TypeScript" "Bash" "Zig" "OCaml" | head -n 1
 }
 
-printf ""
+printf "\x1b[E\x1b[KToday's Language: $(pick_lang)"
 
 for i in {1..20}; do
     sleep 0.05
