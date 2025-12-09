@@ -14,5 +14,6 @@ The language to use is decided with [this roulette](./todays-language.sh) or by 
 |   6 |      Lua |
 |   7 |       Go |
 |   8 |      C++ |
+|   9 |   *Ocaml |
 
 `*`: Unfamiliar language
