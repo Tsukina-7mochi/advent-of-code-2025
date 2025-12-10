@@ -4,16 +4,17 @@
 
 The language to use is decided with [this roulette](./todays-language.sh) or by my preference.
 
-| day | language |
-| --- | -------- |
-|   1 |     Rust |
-|   2 |   Kotlin |
-|   3 |     *Nim |
-|   4 | *Haskell |
-|   5 |        C |
-|   6 |      Lua |
-|   7 |       Go |
-|   8 |      C++ |
-|   9 |   *Ocaml |
+| day |   language |
+| --- | ---------- |
+|   1 |       Rust |
+|   2 |     Kotlin |
+|   3 |       *Nim |
+|   4 |   *Haskell |
+|   5 |          C |
+|   6 |        Lua |
+|   7 |         Go |
+|   8 |        C++ |
+|   9 |     *Ocaml |
+|  10 | TypeScript |
 
 `*`: Unfamiliar language

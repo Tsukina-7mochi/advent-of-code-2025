@@ -1,7 +1,7 @@
 !/bin/bash
 
 function pick_lang() {
-    shuf -e "TypeScript" "Bash" "Zig" | head -n 1
+    shuf -e "Bash" "Zig" | head -n 1
 }
 
 printf "\x1b[E\x1b[KToday's Language: $(pick_lang)"
