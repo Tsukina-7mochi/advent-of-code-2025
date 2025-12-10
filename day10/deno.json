@@ -1,0 +1,9 @@
+{
+  "tasks": {
+    "run-example": "cat input-example.txt | deno run main.ts",
+    "run": "cat input.txt | deno run main.ts"
+  },
+  "imports": {
+    "@std/streams": "jsr:@std/streams@^1.0.14"
+  }
+}
